@@ -1,3 +1,9 @@
+            {
+		"attribution": {
+            "url": "http://data.gov.tw/license",
+            "text": "政府資料開放授權條款－第1版",
+            "required": true
+        },
         "name": "臺灣村里界圖",
 		"overlay": true,
         "description": "The village map from Taiwan National Land Surveying and Mapping Center"        
